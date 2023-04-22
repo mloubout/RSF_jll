@@ -1,0 +1,18 @@
+[[RSF]]
+arch = "i686"
+git-tree-sha1 = "5f7abdda1eb495f285fa9911f665e46cc97a2286"
+libc = "glibc"
+os = "linux"
+
+    [[RSF.download]]
+    sha256 = "e79b501f824657342a8d7c79fdc6adb6de9a8893b383bce867a6c9c24b5ce40c"
+    url = "https://github.com/mloubout/RSF_jll.jl/releases/download/RSF-v1.0.0+0/RSF.v1.0.0.i686-linux-gnu.tar.gz"
+[[RSF]]
+arch = "x86_64"
+git-tree-sha1 = "b03cf4ece88a1d6acfbec7225c9a34516d21ab45"
+libc = "glibc"
+os = "linux"
+
+    [[RSF.download]]
+    sha256 = "c953fee85fda93aa80e337d69aaa2c759e07922fb134ad3cecf771673ef135df"
+    url = "https://github.com/mloubout/RSF_jll.jl/releases/download/RSF-v1.0.0+0/RSF.v1.0.0.x86_64-linux-gnu.tar.gz"
